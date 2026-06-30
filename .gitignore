@@ -1,0 +1,7 @@
+*.bin
+ABSA-BERT-pair/uncased_L-12_H-768_A-12/
+ABSA-BERT-pair/roberta-base/
+ABSA-BERT-pair/deberta-v3-base/
+ABSA-BERT-pair/results/
+__pycache__/
+*.zip
